@@ -123,23 +123,23 @@ each time you want to upgrade Docker Engine.
 
 1. Go to https://download.docker.com/linux/ and select the OS distribution.
 
-![Docker Installation Img-01](./docker-installation-imgages/docker-installation-img-01.jpg)
+![Docker Installation Img-01](./docker-installation-images/docker-installation-img-01.jpg)
 
 
 2. Select the dists and select the distribution release (or version code name).
 
-![Docker Installation Img-02](./docker-installation-imgages/docker-installation-img-02.jpg)
+![Docker Installation Img-02](./docker-installation-images/docker-installation-img-02.jpg)
 
-![Docker Installation Img-03](./docker-installation-imgages/docker-installation-img-03.jpg)
+![Docker Installation Img-03](./docker-installation-images/docker-installation-img-03.jpg)
 
 
 3. Go to pool/stable/ and select the applicable architecture (amd64, armhf, arm64, or s390x).
 
-![Docker Installation Img-04](./docker-installation-imgages/docker-installation-img-04.jpg)
+![Docker Installation Img-04](./docker-installation-images/docker-installation-img-04.jpg)
 
-![Docker Installation Img-05](./docker-installation-imgages/docker-installation-img-05.jpg)
+![Docker Installation Img-05](./docker-installation-images/docker-installation-img-05.jpg)
 
-![Docker Installation Img-06](./docker-installation-imgages/docker-installation-img-06.jpg)
+![Docker Installation Img-06](./docker-installation-images/docker-installation-img-06.jpg)
 
 
 4. Download the following deb files for the Docker Engine, CLI, containerd, and
